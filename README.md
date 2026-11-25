@@ -1,24 +1,30 @@
-# [Project name]
+# [Command Line RPG]
 
 ## Project description
 
-Describe what your project does and who it helps.
+Command Line RPG is a playable RPG using just the terminal
 
 ## Author
 
-Add your name and, optionally, your GitHub username.
+Ty Williams
 
 ## Environment setup
 
+In your project folder, create a virtual environment:
+
+```python -m venv .venv```
+Activate it:
+
+```.\.venv\Scripts\Activate.ps1  ```  
 List the Python version and the commands to create and activate a virtual environment.
 
 ## Dependencies
 
-Explain how to install any packages your project needs.
+Command Line RPG uses the random package native to python to control some of the mechanics
 
 ## Running the project
 
-Give the command to start the program and one example of how to use it.
+To run the program, type ```python cmd_line_rpg [difficulty]``` into your terminal, replacing difficulty with "easy" or "hard" or leaving blank for normal difficulty. 
 
 ## Running the tests
 
