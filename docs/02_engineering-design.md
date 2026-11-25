@@ -48,13 +48,8 @@ main()
 ```
 
 ### Libraries
-
-[How can you leverage external libraries to:
-
-- take advantage of functionality already written and tested by others?
-- improve the performance, user experience, or features in your application?
-
-All apps should leverage libraries. ]
+ 
+The game will utilize the random library native to python to generate numbers that influence the gameplay.
 
 ### Output
 

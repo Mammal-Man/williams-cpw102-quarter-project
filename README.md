@@ -2,7 +2,7 @@
 
 ## Project description
 
-Command Line RPG is a playable RPG using just the terminal
+Command Line RPG follows a gripping story and engages the player in strategic combat entirely within the terminal that comes with their computer.
 
 ## Author
 
